@@ -1,0 +1,234 @@
+2023-11-12 14:01:06 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\arp_l2tpv3.cap
+2023-11-12 14:01:13 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:01:18 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\arp_l2tpv3.cap: No such file or directory
+2023-11-12 14:04:53 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\ctfother\课堂\gift.pcapng
+2023-11-12 14:05:11 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\2023-11-10 (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\algorithm (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\IDS-CNN-master (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\ids_2023 (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\images (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\MachineLearningCVE (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\SequencePrediction-master (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\Transfer-Learning-master (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\transfer_learning_resnet18-master (拒绝访问。)
+2023-11-12 14:05:42 DEBUG swing.common.SwingUtils    E:\国创\王艺谚 演示视频 (拒绝访问。)
+2023-11-12 14:08:43 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:08:45 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:14:35 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:14:37 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:14:38 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:15:38 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:15:40 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:15:41 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:18:37 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:18:40 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:18:41 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:20:51 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:21:00 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:21:01 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:22:03 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:22:06 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:22:06 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:23:32 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:23:34 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:23:35 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:25:19 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:25:21 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:25:23 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:28:48 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:28:50 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:28:51 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:30:10 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:30:13 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:30:14 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:33:20 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:33:23 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:35:35 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:35:37 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:35:38 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:36:26 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:36:27 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:36:27 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:41:50 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:41:53 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:41:54 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:44:23 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:44:25 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:44:26 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:45:28 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:45:30 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:45:30 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:49:37 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\国创\2023-11-10\try.pcap
+2023-11-12 14:49:42 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\国创\2023-11-10
+2023-11-12 14:49:47 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: E:\国创\2023-11-10\try.pcap: No such file or directory
+2023-11-12 14:50:31 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\try.pcap
+2023-11-12 14:50:33 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... E:\try.pcap
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 6 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 6 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 32 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@28e32045e3eclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=23966)
+********************************************************************************
+0000:*ff ff ff ff  ff ff f0 9e  4a 6b 33 3e  08 06 00 01    ........Jk3>....
+0010: 08 00 06 04  00 01 f0 9e  4a 6b 33 3e  c0 a8 03 6d    ........Jk3>...m
+0020: 00 00 00 00  00 00 c0 a8  03 45                       .........E      
+
+
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 53 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 14:50:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on E:\try.pcap
+2023-11-12 15:17:11 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input E:\try.pcap
+2023-11-12 15:17:18 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output E:\
+2023-11-12 15:17:21 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... E:\try.pcap
+2023-11-12 15:17:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 6 flow
+2023-11-12 15:17:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 6 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 32 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@17cfa1f5e3eclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=23966)
+********************************************************************************
+0000:*ff ff ff ff  ff ff f0 9e  4a 6b 33 3e  08 06 00 01    ........Jk3>....
+0010: 08 00 06 04  00 01 f0 9e  4a 6b 33 3e  c0 a8 03 6d    ........Jk3>...m
+0020: 00 00 00 00  00 00 c0 a8  03 45                       .........E      
+
+
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 53 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2023-11-12 15:17:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on E:\try.pcap

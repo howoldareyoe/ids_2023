@@ -1,0 +1,99 @@
+2023-11-18 12:22:53.390 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - Starting IdsDemoApplication using Java 1.8.0_291 on LAPTOP-9HR8DGCC with PID 28656 (E:\guo_chuang\ids_2023\ids-demo\target\classes started by YU in E:\guo_chuang\ids_2023)
+2023-11-18 12:22:53.393 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - No active profile set, falling back to default profiles: default
+2023-11-18 12:22:53.449 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-18 12:22:53.449 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-18 12:22:54.024 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-11-18 12:22:54.026 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-18 12:22:54.047 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-11-18 12:22:54.299 [] [restartedMain] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=16172f54-97a8-3c39-bfa1-ed03f29fd094
+2023-11-18 12:22:54.411 [] [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.example.idsdemo.config.RedisConfig$$EnhancerBySpringCGLIB$$4724294d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-11-18 12:22:54.775 [] [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 6083 (http)
+2023-11-18 12:22:54.782 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6083"]
+2023-11-18 12:22:54.782 [] [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-18 12:22:54.782 [] [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-18 12:22:54.930 [] [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2023-11-18 12:22:54.930 [] [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1470 ms
+2023-11-18 12:27:18.856 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - Starting IdsDemoApplication using Java 1.8.0_291 on LAPTOP-9HR8DGCC with PID 30936 (E:\guo_chuang\ids_2023\ids-demo\target\classes started by YU in E:\guo_chuang\ids_2023)
+2023-11-18 12:27:18.857 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - No active profile set, falling back to default profiles: default
+2023-11-18 12:27:18.906 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-18 12:27:18.906 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-18 12:27:19.381 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-11-18 12:27:19.383 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-18 12:27:19.401 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-11-18 12:27:19.608 [] [restartedMain] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=16172f54-97a8-3c39-bfa1-ed03f29fd094
+2023-11-18 12:27:19.722 [] [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.example.idsdemo.config.RedisConfig$$EnhancerBySpringCGLIB$$5f417571] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-11-18 12:27:20.048 [] [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 6083 (http)
+2023-11-18 12:27:20.055 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6083"]
+2023-11-18 12:27:20.056 [] [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-18 12:27:20.056 [] [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-18 12:27:20.197 [] [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2023-11-18 12:27:20.197 [] [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1290 ms
+2023-11-18 12:30:43.582 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - Starting IdsDemoApplication using Java 1.8.0_291 on LAPTOP-9HR8DGCC with PID 29720 (E:\guo_chuang\ids_2023\ids-demo\target\classes started by YU in E:\guo_chuang\ids_2023)
+2023-11-18 12:30:43.585 [] [restartedMain] INFO  com.example.idsdemo.IdsDemoApplication - No active profile set, falling back to default profiles: default
+2023-11-18 12:30:43.655 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-18 12:30:43.656 [] [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-18 12:30:44.229 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-11-18 12:30:44.231 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-18 12:30:44.252 [] [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-11-18 12:30:44.513 [] [restartedMain] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=e0a4fe6a-5464-34f0-bafa-fd8cae20f916
+2023-11-18 12:30:44.752 [] [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.example.idsdemo.config.RedisConfig$$EnhancerBySpringCGLIB$$5a3a607e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-11-18 12:30:47.133 [] [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 6083 (http)
+2023-11-18 12:30:47.142 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6083"]
+2023-11-18 12:30:47.142 [] [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-18 12:30:47.142 [] [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-18 12:30:47.267 [] [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2023-11-18 12:30:47.267 [] [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3611 ms
+2023-11-18 15:09:00.258 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:09:00.283 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:09:00.334 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:09:00.335 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:09:00.757 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 15:19:17.261 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:19:35.338 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:19:35.364 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:19:35.409 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:19:35.410 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:19:35.619 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 15:31:25.877 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:31:25.893 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:31:25.943 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:31:25.945 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:31:26.451 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 15:45:06.498 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:45:06.517 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:45:06.560 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:45:06.561 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:51:26.297 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:51:26.314 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:51:26.351 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:51:26.352 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:58:40.730 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 15:58:40.748 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 15:58:40.796 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 15:58:40.797 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 15:58:40.838 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 15:59:56.706 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:00:28.711 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:00:28.727 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 16:00:28.770 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 16:00:28.771 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 16:00:28.978 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 16:04:57.444 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:04:57.463 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 16:04:57.504 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 16:04:57.505 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 16:05:14.177 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:05:14.194 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 16:05:14.232 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 16:05:14.233 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 16:05:14.419 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 16:07:55.623 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:07:55.644 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 16:07:55.696 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 16:07:55.698 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 16:07:56.302 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.
+2023-11-18 16:12:30.370 [] [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 0.9994, based on libpcap version 1.9.1
+2023-11-18 16:12:30.400 [] [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+2023-11-18 16:12:30.446 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@18b4aac2, URL: file:/D:/maven-repository/org/pcap4j/pcap4j-packetfactory-static/2.0.0-alpha.5/pcap4j-packetfactory-static-2.0.0-alpha.5.jar
+2023-11-18 16:12:30.448 [] [main] INFO  org.pcap4j.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+2023-11-18 16:12:30.494 [] [main] INFO  org.pcap4j.core.PcapHandle - Closed.

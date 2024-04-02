@@ -1,0 +1,3108 @@
+2024-03-21 13:17:34.757 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.723879+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49696
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xce77
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x9232
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1260
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 84 0b 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.771 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.784735+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48721
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x88b8
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xc96b
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3954
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 4c f9 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.771 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.809980+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48723
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x88b6
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x2c0c
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1955
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 e9 5b 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.771 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.881988+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48721
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x95b8
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xd16b
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3954
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 4c f9 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.771 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.883033+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48723
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x95b6
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x340c
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1955
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 e9 5b 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.771 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.887158+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49696
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdc73
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x9a32
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1260
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 84 0b 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:31.983211+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48733
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x88ac
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x7a74
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3961
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 98 00 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.027230+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48733
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x95ac
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x8274
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3961
+[data (56 bytes)]
+  Hex stream: af 57 58 65 00 00 00 00 98 00 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.250032+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48748
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x889d
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x7ff7
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3720
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 9d d0 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.279870+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48748
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x959d
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x87f7
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3720
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 9d d0 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.725299+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49783
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xce20
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xf52b
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1261
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 20 11 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.761160+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49783
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdc1c
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xfd2b
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1261
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 20 11 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.786067+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48793
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8870
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x9865
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3955
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 7c fe 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.772 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.811132+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48794
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x886f
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xab06
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1956
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 69 60 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.816628+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48793
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9570
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xa065
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3955
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 7c fe 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.841451+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48794
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x956f
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xb306
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1956
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 69 60 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:32.983400+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48809
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8860
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xbe72
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3962
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 53 01 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.016884+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48809
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9560
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xc672
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3962
+[data (56 bytes)]
+  Hex stream: b0 57 58 65 00 00 00 00 53 01 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.252065+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48813
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x885c
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x93ee
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3721
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 88 d8 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.285929+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48813
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x955c
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x9bee
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3721
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 88 d8 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.727321+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49800
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xce0f
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x0d23
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1262
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 07 19 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.762828+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49800
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdc0b
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x1523
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1262
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 07 19 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.773 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.787751+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48832
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8849
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xfd5d
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3956
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 16 05 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.812696+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48833
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8848
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x8cff
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1957
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 86 66 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.818675+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48832
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9549
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x055e
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3956
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 16 05 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.843271+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48833
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9548
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x94ff
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1957
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 86 66 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:33.984077+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48850
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8837
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x176f
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3963
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 f9 03 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.014843+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48850
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9537
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x1f6f
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3963
+[data (56 bytes)]
+  Hex stream: b1 57 58 65 00 00 00 00 f9 03 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.253098+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48860
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x882d
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x81e9
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3722
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 99 dc 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.284092+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48860
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x952d
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x89e9
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3722
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 99 dc 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.729089+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49807
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xce08
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x261b
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1263
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 ed 1f 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.764091+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49807
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdc04
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x2e1b
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1263
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 ed 1f 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.774 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.788805+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48892
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x880d
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xdf58
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3957
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 33 09 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.814425+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48894
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x880b
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xccf7
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1958
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 45 6d 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.819454+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48892
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x950d
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xe758
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3957
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 33 09 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.846783+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48894
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x950b
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xd4f7
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1958
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 45 6d 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:34.985059+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48895
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x880a
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x446a
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3964
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 cb 07 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.016524+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48895
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x950a
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x4c6a
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3964
+[data (56 bytes)]
+  Hex stream: b2 57 58 65 00 00 00 00 cb 07 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.254278+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48909
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87fc
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xe6e3
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3723
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 33 e1 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.285666+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48909
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94fc
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xeee3
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3723
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 33 e1 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.730323+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49859
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcdd4
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x6315
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1264
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 af 24 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.775 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.765382+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49859
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdbd0
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x6b15
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1264
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 af 24 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.790607+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48921
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87f0
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xdd50
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3958
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 34 10 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.815930+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48924
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87ed
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xe9f0
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1959
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 27 73 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.825963+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48921
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94f0
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xe550
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3958
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 34 10 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.846835+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48924
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94ed
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xf1f0
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1959
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 27 73 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:35.985752+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48941
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87dc
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x8a66
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3965
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 84 0a 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.016409+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48941
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94dc
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x9266
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3965
+[data (56 bytes)]
+  Hex stream: b3 57 58 65 00 00 00 00 84 0a 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.255825+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48958
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87cb
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xd9dc
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3724
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 3f e7 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.286369+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48958
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94cb
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xe1dc
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3724
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 3f e7 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.731600+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49909
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcda2
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x640f
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1265
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 ad 29 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.776 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.767879+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49909
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdb9e
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x6c0f
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1265
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 ad 29 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.792189+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48983
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87b2
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xc849
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3959
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 48 16 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.817003+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48986
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87af
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xbbeb
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1960
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 54 77 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.823182+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48983
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94b2
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xd049
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3959
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 48 16 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.847177+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 48986
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94af
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xc3eb
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1960
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 54 77 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:36.986543+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49001
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x87a0
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x7262
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3966
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 9b 0d 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.028369+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49001
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x94a0
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x7a62
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3966
+[data (56 bytes)]
+  Hex stream: b4 57 58 65 00 00 00 00 9b 0d 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.257541+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49006
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x879b
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x25d5
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3725
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 f2 ed 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.287822+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49006
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x949b
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x2dd5
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3725
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 f2 ed 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.733157+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49989
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcd52
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x4808
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1266
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 c8 2f 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.768955+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49989
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdb4e
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x5008
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1266
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 c8 2f 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.777 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.793313+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49037
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x877c
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x4044
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3960
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 cf 1a 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.818345+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49038
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x877b
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x76e5
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1961
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 98 7c 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.824556+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49037
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x947c
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x4844
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3960
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 cf 1a 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.849860+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49038
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x947b
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x7ee5
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1961
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 98 7c 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:37.987496+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49045
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8774
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xb75d
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3967
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 55 11 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.021709+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49045
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9474
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xbf5d
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3967
+[data (56 bytes)]
+  Hex stream: b5 57 58 65 00 00 00 00 55 11 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.259021+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49070
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x875b
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x60ce
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3726
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 b6 f3 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.289843+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49070
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x945b
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x68ce
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3726
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 b6 f3 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.735113+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49990
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcd51
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x96ff
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1267
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 78 37 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.770093+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49990
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdb4d
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x9eff
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1267
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 78 37 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.778 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.794676+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49118
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x872b
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xeb3d
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3961
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 23 20 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.820037+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49119
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x872a
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xdbdd
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1962
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 32 83 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.825671+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49118
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x942b
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xf33d
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3961
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 23 20 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.851460+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49119
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x942a
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xe3dd
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1962
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 32 83 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:38.987840+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49128
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8721
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x5d5b
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3968
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 ae 12 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.022677+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49128
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9421
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x655b
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3968
+[data (56 bytes)]
+  Hex stream: b6 57 58 65 00 00 00 00 ae 12 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.261025+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49144
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x8711
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x8dc5
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3727
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 88 fb 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.292170+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49144
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x9411
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x95c5
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3727
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 88 fb 03 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.779 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.736401+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49997
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcd4a
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xd8f9
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1268
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 35 3c 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.774187+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49997
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdb46
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xe0f9
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1268
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 35 3c 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.795952+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49173
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86f4
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x2338
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3962
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 ea 24 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.821631+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49175
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86f2
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xa0d6
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1963
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 6c 89 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.828061+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49173
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93f4
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x2b38
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3962
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 ea 24 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.852185+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49175
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93f2
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xa8d6
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1963
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 6c 89 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:39.988810+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49184
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86e9
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x9656
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3969
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 74 16 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.024583+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49184
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93e9
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x9e56
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3969
+[data (56 bytes)]
+  Hex stream: b7 57 58 65 00 00 00 00 74 16 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.262348+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49198
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86db
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x64bf
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3728
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 b0 00 04 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.293955+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49198
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93db
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x6cbf
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3728
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 b0 00 04 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.737462+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 50061
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xcd0a
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x82f4
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1269
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 8a 40 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.780 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.772686+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 2 (Maximize Reliability)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 50061
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 50
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xdb06
+  Source address: /39.156.66.10
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x8af4
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1269
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 8a 40 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.797428+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49247
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86aa
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x6f31
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3963
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 9d 2a 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.823347+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49250
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86a7
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xedce
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1964
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 1e 90 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.831695+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49247
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93aa
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x7731
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 153
+  SequenceNumber: 3963
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 9d 2a 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.857485+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49250
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93a7
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0xf5ce
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 2149
+  SequenceNumber: 1964
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 1e 90 0c 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:40.989721+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49254
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x86a3
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x0352
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3970
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 06 1a 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:41.024600+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49254
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x93a3
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x0b52
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 130
+  SequenceNumber: 3970
+[data (56 bytes)]
+  Hex stream: b8 57 58 65 00 00 00 00 06 1a 0f 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:41.264128+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49259
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x869e
+  Source address: /172.20.148.86
+  Destination address: /110.242.68.66
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0x69b7
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3729
+[data (56 bytes)]
+  Hex stream: b9 57 58 65 00 00 00 00 aa 07 04 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:41.298057+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:14:7d
+  Source address: 00:15:5d:8f:16:19
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 49259
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 51
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0x939e
+  Source address: /110.242.68.66
+  Destination address: /172.20.148.86
+[ICMPv4 Common Header (4 bytes)]
+  Type: 0 (Echo Reply)
+  Code: 0 (No Code)
+  Checksum: 0x71b7
+[ICMPv4 Echo Reply Header (4 bytes)]
+  Identifier: 288
+  SequenceNumber: 3729
+[data (56 bytes)]
+  Hex stream: b9 57 58 65 00 00 00 00 aa 07 04 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - Captured at: 2023-11-18T14:20:41.738867+08:00[Asia/Shanghai]
+Original length: 98 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 00:15:5d:8f:16:19
+  Source address: 00:15:5d:8f:14:7d
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 84 [bytes]
+  Identification: 50082
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 1 (ICMPv4)
+  Header checksum: 0xccf5
+  Source address: /172.20.148.86
+  Destination address: /39.156.66.10
+[ICMPv4 Common Header (4 bytes)]
+  Type: 8 (Echo)
+  Code: 0 (No Code)
+  Checksum: 0xf4ed
+[ICMPv4 Echo Header (4 bytes)]
+  Identifier: 2886
+  SequenceNumber: 1270
+[data (56 bytes)]
+  Hex stream: b9 57 58 65 00 00 00 00 17 46 0b 00 00 00 00 00 10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f 20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f 30 31 32 33 34 35 36 37
+
+2024-03-21 13:17:34.781 [] [pool-2-thread-1] INFO  com.example.idsdemo.utils.ReadPacketFile - EOF
+2024-03-21 13:17:34.782 [] [pool-2-thread-1] INFO  org.pcap4j.core.PcapHandle - Closed.
+2024-03-21 13:21:48.847 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:26:48.861 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:31:48.869 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:36:48.885 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:41:48.890 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:46:48.895 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:51:48.904 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 13:56:48.911 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:01:48.917 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:06:48.931 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:11:48.938 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:16:48.944 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:21:48.954 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:26:48.966 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:31:48.978 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:36:48.984 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:41:48.990 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:46:48.998 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:51:49.011 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 14:56:49.018 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:01:49.031 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:06:49.038 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:11:49.045 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:16:49.060 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:21:49.075 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:26:49.079 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:31:49.084 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:36:49.088 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:41:49.101 [] [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-03-21 15:45:13.944 [] [SpringApplicationShutdownHook] INFO  o.s.c.n.e.serviceregistry.EurekaServiceRegistry - Unregistering application IDS-2023 with eureka with status DOWN
+2024-03-21 15:45:13.944 [] [SpringApplicationShutdownHook] INFO  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1711007113944, current=DOWN, previous=UP]
+2024-03-21 15:45:13.945 [] [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083: registering service...
+2024-03-21 15:45:13.971 [] [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083 - registration status: 204
+2024-03-21 15:45:19.103 [] [SpringApplicationShutdownHook] INFO  com.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2024-03-21 15:45:22.113 [] [SpringApplicationShutdownHook] INFO  com.netflix.discovery.DiscoveryClient - Unregistering ...
+2024-03-21 15:45:26.223 [] [SpringApplicationShutdownHook] INFO  c.n.d.s.t.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8083/eureka/} exception=I/O error on DELETE request for "http://localhost:8083/eureka/apps/IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083": Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8083/eureka/apps/IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083": Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:87)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:196)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:189)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:137)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:106)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 39 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:476)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:218)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:200)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+	at java.net.Socket.connect(Socket.java:606)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 52 more
+
+2024-03-21 15:45:30.339 [] [SpringApplicationShutdownHook] INFO  c.n.d.s.t.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8083/eureka/}, exception=I/O error on DELETE request for "http://localhost:8083/eureka/apps/IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083": Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8083/eureka/apps/IDS-2023/LAPTOP-9HR8DGCC:ids-2023:6083": Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:87)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:196)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:189)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:137)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:106)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8083 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 40 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:476)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:218)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:200)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+	at java.net.Socket.connect(Socket.java:606)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 53 more
+
+2024-03-21 15:45:30.367 [] [SpringApplicationShutdownHook] INFO  com.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient

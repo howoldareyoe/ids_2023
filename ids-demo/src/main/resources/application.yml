@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ids-2023
+eureka:
+  instance:
+    hostname: ids-2023
+  client:
+    serviceUrl:
+      defaultZone: "http://localhost:8083/eureka"    #声明注册中心的地址

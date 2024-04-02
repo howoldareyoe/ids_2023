@@ -1,0 +1,428 @@
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:19.018888427+08:00[Asia/Shanghai]
+Original length: 902 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 888 [bytes]
+  Identification: 36226
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x58f5
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783380551
+  Acknowledgment Number: 997263206
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 237
+  Checksum: 0x5584
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322133] [TS Echo Reply: 88584056]
+[data (836 bytes)]
+  Hex stream: 50 4f 53 54 20 2f 61 75 74 68 2f 6c 6f 67 69 6e 2f 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74 3a 20 68 6f 6e 65 79 70 6f 74 2e 6c 61 62 2e 63 66 69 75 6c 2e 63 61 0d 0a 55 73 65 72 2d 41 67 65 6e 74 3a 20 4d 6f 7a 69 6c 6c 61 2f 35 2e 30 20 28 58 31 31 3b 20 4c 69 6e 75 78 20 78 38 36 5f 36 34 3b 20 72 76 3a 35 32 2e 30 29 20 47 65 63 6b 6f 2f 32 30 31 30 30 31 30 31 20 46 69 72 65 66 6f 78 2f 35 32 2e 30 0d 0a 41 63 63 65 70 74 3a 20 2a 2f 2a 0d 0a 41 63 63 65 70 74 2d 4c 61 6e 67 75 61 67 65 3a 20 65 6e 2d 55 53 2c 65 6e 3b 71 3d 30 2e 35 0d 0a 41 63 63 65 70 74 2d 45 6e 63 6f 64 69 6e 67 3a 20 67 7a 69 70 2c 20 64 65 66 6c 61 74 65 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 58 2d 43 53 52 46 54 6f 6b 65 6e 3a 20 31 35 33 35 34 39 39 39 35 33 23 23 61 64 62 35 64 61 34 65 32 31 37 38 36 38 34 34 35 35 31 65 31 35 65 62 36 34 31 66 61 36 35 30 64 65 65 63 30 33 39 32 0d 0a 58 2d 52 65 71 75 65 73 74 65 64 2d 57 69 74 68 3a 20 58 4d 4c 48 74 74 70 52 65 71 75 65 73 74 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 31 30 31 0d 0a 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 76 67 2e 46 75 77 43 65 42 70 57 31 74 31 48 74 5a 6f 5f 70 57 44 4b 39 2d 4f 6f 38 54 51 0d 0a 44 4e 54 3a 20 31 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 0d 0a 7b 22 65 6d 61 69 6c 22 3a 22 74 65 73 74 40 65 78 61 6d 70 6c 65 22 2c 22 70 61 73 73 77 6f 72 64 22 3a 22 25 32 30 25 34 33 25 34 36 25 34 39 25 37 62 25 33 31 25 36 65 25 37 33 25 33 33 25 36 33 25 37 35 25 37 32 25 33 33 25 35 66 25 36 63 25 33 30 25 36 37 25 33 30 25 36 65 25 37 64 25 32 30 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Payload: POST /auth/login/ HTTP/1.1
+Host: honeypot.lab.cfiul.ca
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-CSRFToken: 1535499953##adb5da4e21786844551e15eb641fa650deec0392
+X-Requested-With: XMLHttpRequest
+Content-Length: 101
+Cookie: session=.eJw9j0Frg0AUhP9KeeccNglehBy6mEpK34qwkr4tQeKaqOtuG2LoqsH_nqYNPQ3MMN8wV8iPdt_Vhw7Cjys8Xf6kgBD228AVfrWCafZwsri39C7sJu6_1cBPRcNZMfCaFsLqJVZlXJ_0wD1tS_tW3Zu7aTeDvCkhfCBEnDIR4ZjI2ijzatDRgkbl0G16MaY-kVkgojQgt74Pg-7Ox_zy1R4-_xEYIcOo6tEoK0zKlNFLGvVcmcz_ZEMin71yL00irSXJW5Qto98f0w26KE2M.Dmdivg.FuwCeBpW1t1HtZo_pWDK9-Oo8TQ
+DNT: 1
+Connection: keep-alive
+
+{"email":"test@example","password":"%20%43%46%49%7b%31%6e%73%33%63%75%72%33%5f%6c%30%67%30%6e%7d%20"}
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:19.029084802+08:00[Asia/Shanghai]
+Original length: 634 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: ac:ed:5c:6f:68:73
+  Source address: 6c:3b:6b:55:a1:de
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 620 [bytes]
+  Identification: 33444
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 63
+  Protocol: 6 (TCP)
+  Header checksum: 0x65df
+  Source address: /10.10.20.4
+  Destination address: /10.10.40.241
+[TCP Header (32 bytes)]
+  Source port: 80 (HTTP)
+  Destination port: 47428 (unknown)
+  Sequence Number: 997263206
+  Acknowledgment Number: 1783381387
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 253
+  Checksum: 0xd802
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 88586127] [TS Echo Reply: 322133]
+[data (568 bytes)]
+  Hex stream: 48 54 54 50 2f 31 2e 31 20 34 30 31 20 55 4e 41 55 54 48 4f 52 49 5a 45 44 0d 0a 53 65 72 76 65 72 3a 20 6e 67 69 6e 78 2f 31 2e 34 2e 36 20 28 55 62 75 6e 74 75 29 0d 0a 44 61 74 65 3a 20 54 75 65 2c 20 32 38 20 41 75 67 20 32 30 31 38 20 32 32 3a 34 39 3a 31 39 20 47 4d 54 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 34 34 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 53 65 74 2d 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 37 77 2e 4b 62 5f 39 30 49 4c 43 47 5a 5f 65 30 74 31 76 42 50 62 35 68 68 38 77 54 5a 41 3b 20 48 74 74 70 4f 6e 6c 79 3b 20 50 61 74 68 3d 2f 0d 0a 0d 0a 7b 22 65 72 72 6f 72 22 3a 20 22 49 6e 63 6f 72 72 65 63 74 20 75 73 65 72 6e 61 6d 65 20 6f 72 20 70 61 73 73 77 6f 72 64 2e 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:19.029121242+08:00[Asia/Shanghai]
+Original length: 66 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 52 [bytes]
+  Identification: 36227
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x5c38
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783381387
+  Acknowledgment Number: 997263774
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: false
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 246
+  Checksum: 0xd710
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322135] [TS Echo Reply: 88586127]
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: TCP packet has no payload.
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.271780773+08:00[Asia/Shanghai]
+Original length: 902 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 888 [bytes]
+  Identification: 36228
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x58f3
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783381387
+  Acknowledgment Number: 997263774
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 246
+  Checksum: 0xccb8
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322446] [TS Echo Reply: 88586127]
+[data (836 bytes)]
+  Hex stream: 50 4f 53 54 20 2f 61 75 74 68 2f 6c 6f 67 69 6e 2f 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74 3a 20 68 6f 6e 65 79 70 6f 74 2e 6c 61 62 2e 63 66 69 75 6c 2e 63 61 0d 0a 55 73 65 72 2d 41 67 65 6e 74 3a 20 4d 6f 7a 69 6c 6c 61 2f 35 2e 30 20 28 58 31 31 3b 20 4c 69 6e 75 78 20 78 38 36 5f 36 34 3b 20 72 76 3a 35 32 2e 30 29 20 47 65 63 6b 6f 2f 32 30 31 30 30 31 30 31 20 46 69 72 65 66 6f 78 2f 35 32 2e 30 0d 0a 41 63 63 65 70 74 3a 20 2a 2f 2a 0d 0a 41 63 63 65 70 74 2d 4c 61 6e 67 75 61 67 65 3a 20 65 6e 2d 55 53 2c 65 6e 3b 71 3d 30 2e 35 0d 0a 41 63 63 65 70 74 2d 45 6e 63 6f 64 69 6e 67 3a 20 67 7a 69 70 2c 20 64 65 66 6c 61 74 65 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 58 2d 43 53 52 46 54 6f 6b 65 6e 3a 20 31 35 33 35 34 39 39 39 35 33 23 23 61 64 62 35 64 61 34 65 32 31 37 38 36 38 34 34 35 35 31 65 31 35 65 62 36 34 31 66 61 36 35 30 64 65 65 63 30 33 39 32 0d 0a 58 2d 52 65 71 75 65 73 74 65 64 2d 57 69 74 68 3a 20 58 4d 4c 48 74 74 70 52 65 71 75 65 73 74 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 31 30 31 0d 0a 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 37 77 2e 4b 62 5f 39 30 49 4c 43 47 5a 5f 65 30 74 31 76 42 50 62 35 68 68 38 77 54 5a 41 0d 0a 44 4e 54 3a 20 31 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 0d 0a 7b 22 65 6d 61 69 6c 22 3a 22 74 65 73 74 40 65 78 61 6d 70 6c 65 22 2c 22 70 61 73 73 77 6f 72 64 22 3a 22 25 32 30 25 34 33 25 34 36 25 34 39 25 37 62 25 33 31 25 36 65 25 37 33 25 33 33 25 36 33 25 37 35 25 37 32 25 33 33 25 35 66 25 36 63 25 33 30 25 36 37 25 33 30 25 36 65 25 37 64 25 32 30 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Payload: POST /auth/login/ HTTP/1.1
+Host: honeypot.lab.cfiul.ca
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-CSRFToken: 1535499953##adb5da4e21786844551e15eb641fa650deec0392
+X-Requested-With: XMLHttpRequest
+Content-Length: 101
+Cookie: session=.eJw9j0Frg0AUhP9KeeccNglehBy6mEpK34qwkr4tQeKaqOtuG2LoqsH_nqYNPQ3MMN8wV8iPdt_Vhw7Cjys8Xf6kgBD228AVfrWCafZwsri39C7sJu6_1cBPRcNZMfCaFsLqJVZlXJ_0wD1tS_tW3Zu7aTeDvCkhfCBEnDIR4ZjI2ijzatDRgkbl0G16MaY-kVkgojQgt74Pg-7Ox_zy1R4-_xEYIcOo6tEoK0zKlNFLGvVcmcz_ZEMin71yL00irSXJW5Qto98f0w26KE2M.Dmdi7w.Kb_90ILCGZ_e0t1vBPb5hh8wTZA
+DNT: 1
+Connection: keep-alive
+
+{"email":"test@example","password":"%20%43%46%49%7b%31%6e%73%33%63%75%72%33%5f%6c%30%67%30%6e%7d%20"}
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.280771908+08:00[Asia/Shanghai]
+Original length: 634 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: ac:ed:5c:6f:68:73
+  Source address: 6c:3b:6b:55:a1:de
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 620 [bytes]
+  Identification: 33445
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 63
+  Protocol: 6 (TCP)
+  Header checksum: 0x65de
+  Source address: /10.10.20.4
+  Destination address: /10.10.40.241
+[TCP Header (32 bytes)]
+  Source port: 80 (HTTP)
+  Destination port: 47428 (unknown)
+  Sequence Number: 997263774
+  Acknowledgment Number: 1783382223
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 266
+  Checksum: 0xf85c
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 88586440] [TS Echo Reply: 322446]
+[data (568 bytes)]
+  Hex stream: 48 54 54 50 2f 31 2e 31 20 34 30 31 20 55 4e 41 55 54 48 4f 52 49 5a 45 44 0d 0a 53 65 72 76 65 72 3a 20 6e 67 69 6e 78 2f 31 2e 34 2e 36 20 28 55 62 75 6e 74 75 29 0d 0a 44 61 74 65 3a 20 54 75 65 2c 20 32 38 20 41 75 67 20 32 30 31 38 20 32 32 3a 34 39 3a 32 30 20 47 4d 54 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 34 34 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 53 65 74 2d 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 38 41 2e 4e 59 36 68 55 73 74 6d 77 44 38 47 4a 56 7a 36 43 46 79 74 44 41 76 39 69 77 51 3b 20 48 74 74 70 4f 6e 6c 79 3b 20 50 61 74 68 3d 2f 0d 0a 0d 0a 7b 22 65 72 72 6f 72 22 3a 20 22 49 6e 63 6f 72 72 65 63 74 20 75 73 65 72 6e 61 6d 65 20 6f 72 20 70 61 73 73 77 6f 72 64 2e 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.280840307+08:00[Asia/Shanghai]
+Original length: 66 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 52 [bytes]
+  Identification: 36229
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x5c36
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783382223
+  Acknowledgment Number: 997264342
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: false
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 255
+  Checksum: 0xcf19
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322448] [TS Echo Reply: 88586440]
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: TCP packet has no payload.
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.904224017+08:00[Asia/Shanghai]
+Original length: 902 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 888 [bytes]
+  Identification: 36230
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x58f1
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783382223
+  Acknowledgment Number: 997264342
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 255
+  Checksum: 0x1186
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322604] [TS Echo Reply: 88586440]
+[data (836 bytes)]
+  Hex stream: 50 4f 53 54 20 2f 61 75 74 68 2f 6c 6f 67 69 6e 2f 20 48 54 54 50 2f 31 2e 31 0d 0a 48 6f 73 74 3a 20 68 6f 6e 65 79 70 6f 74 2e 6c 61 62 2e 63 66 69 75 6c 2e 63 61 0d 0a 55 73 65 72 2d 41 67 65 6e 74 3a 20 4d 6f 7a 69 6c 6c 61 2f 35 2e 30 20 28 58 31 31 3b 20 4c 69 6e 75 78 20 78 38 36 5f 36 34 3b 20 72 76 3a 35 32 2e 30 29 20 47 65 63 6b 6f 2f 32 30 31 30 30 31 30 31 20 46 69 72 65 66 6f 78 2f 35 32 2e 30 0d 0a 41 63 63 65 70 74 3a 20 2a 2f 2a 0d 0a 41 63 63 65 70 74 2d 4c 61 6e 67 75 61 67 65 3a 20 65 6e 2d 55 53 2c 65 6e 3b 71 3d 30 2e 35 0d 0a 41 63 63 65 70 74 2d 45 6e 63 6f 64 69 6e 67 3a 20 67 7a 69 70 2c 20 64 65 66 6c 61 74 65 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 58 2d 43 53 52 46 54 6f 6b 65 6e 3a 20 31 35 33 35 34 39 39 39 35 33 23 23 61 64 62 35 64 61 34 65 32 31 37 38 36 38 34 34 35 35 31 65 31 35 65 62 36 34 31 66 61 36 35 30 64 65 65 63 30 33 39 32 0d 0a 58 2d 52 65 71 75 65 73 74 65 64 2d 57 69 74 68 3a 20 58 4d 4c 48 74 74 70 52 65 71 75 65 73 74 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 31 30 31 0d 0a 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 38 41 2e 4e 59 36 68 55 73 74 6d 77 44 38 47 4a 56 7a 36 43 46 79 74 44 41 76 39 69 77 51 0d 0a 44 4e 54 3a 20 31 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 0d 0a 7b 22 65 6d 61 69 6c 22 3a 22 74 65 73 74 40 65 78 61 6d 70 6c 65 22 2c 22 70 61 73 73 77 6f 72 64 22 3a 22 25 32 30 25 34 33 25 34 36 25 34 39 25 37 62 25 33 31 25 36 65 25 37 33 25 33 33 25 36 33 25 37 35 25 37 32 25 33 33 25 35 66 25 36 63 25 33 30 25 36 37 25 33 30 25 36 65 25 37 64 25 32 30 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Payload: POST /auth/login/ HTTP/1.1
+Host: honeypot.lab.cfiul.ca
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-CSRFToken: 1535499953##adb5da4e21786844551e15eb641fa650deec0392
+X-Requested-With: XMLHttpRequest
+Content-Length: 101
+Cookie: session=.eJw9j0Frg0AUhP9KeeccNglehBy6mEpK34qwkr4tQeKaqOtuG2LoqsH_nqYNPQ3MMN8wV8iPdt_Vhw7Cjys8Xf6kgBD228AVfrWCafZwsri39C7sJu6_1cBPRcNZMfCaFsLqJVZlXJ_0wD1tS_tW3Zu7aTeDvCkhfCBEnDIR4ZjI2ijzatDRgkbl0G16MaY-kVkgojQgt74Pg-7Ox_zy1R4-_xEYIcOo6tEoK0zKlNFLGvVcmcz_ZEMin71yL00irSXJW5Qto98f0w26KE2M.Dmdi8A.NY6hUstmwD8GJVz6CFytDAv9iwQ
+DNT: 1
+Connection: keep-alive
+
+{"email":"test@example","password":"%20%43%46%49%7b%31%6e%73%33%63%75%72%33%5f%6c%30%67%30%6e%7d%20"}
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.913031980+08:00[Asia/Shanghai]
+Original length: 634 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: ac:ed:5c:6f:68:73
+  Source address: 6c:3b:6b:55:a1:de
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 620 [bytes]
+  Identification: 33446
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 63
+  Protocol: 6 (TCP)
+  Header checksum: 0x65dd
+  Source address: /10.10.20.4
+  Destination address: /10.10.40.241
+[TCP Header (32 bytes)]
+  Source port: 80 (HTTP)
+  Destination port: 47428 (unknown)
+  Sequence Number: 997264342
+  Acknowledgment Number: 1783383059
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: true
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 279
+  Checksum: 0xaa70
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 88586598] [TS Echo Reply: 322604]
+[data (568 bytes)]
+  Hex stream: 48 54 54 50 2f 31 2e 31 20 34 30 31 20 55 4e 41 55 54 48 4f 52 49 5a 45 44 0d 0a 53 65 72 76 65 72 3a 20 6e 67 69 6e 78 2f 31 2e 34 2e 36 20 28 55 62 75 6e 74 75 29 0d 0a 44 61 74 65 3a 20 54 75 65 2c 20 32 38 20 41 75 67 20 32 30 31 38 20 32 32 3a 34 39 3a 32 31 20 47 4d 54 0d 0a 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 61 70 70 6c 69 63 61 74 69 6f 6e 2f 6a 73 6f 6e 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 34 34 0d 0a 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d 0a 53 65 74 2d 43 6f 6f 6b 69 65 3a 20 73 65 73 73 69 6f 6e 3d 2e 65 4a 77 39 6a 30 46 72 67 30 41 55 68 50 39 4b 65 65 63 63 4e 67 6c 65 68 42 79 36 6d 45 70 4b 33 34 71 77 6b 72 34 74 51 65 4b 61 71 4f 74 75 47 32 4c 6f 71 73 48 5f 6e 71 59 4e 50 51 33 4d 4d 4e 38 77 56 38 69 50 64 74 5f 56 68 77 37 43 6a 79 73 38 58 66 36 6b 67 42 44 32 32 38 41 56 66 72 57 43 61 66 5a 77 73 72 69 33 39 43 37 73 4a 75 36 5f 31 63 42 50 52 63 4e 5a 4d 66 43 61 46 73 4c 71 4a 56 5a 6c 58 4a 5f 30 77 44 31 74 53 5f 74 57 33 5a 75 37 61 54 65 44 76 43 6b 68 66 43 42 45 6e 44 49 52 34 5a 6a 49 32 69 6a 7a 61 74 44 52 67 6b 62 6c 30 47 31 36 4d 61 59 2d 6b 56 6b 67 6f 6a 51 67 74 37 34 50 67 2d 37 4f 78 5f 7a 79 31 52 34 2d 5f 78 45 59 49 63 4f 6f 36 74 45 6f 4b 30 7a 4b 6c 4e 46 4c 47 76 56 63 6d 63 7a 5f 5a 45 4d 69 6e 37 31 79 4c 30 30 69 72 53 58 4a 57 35 51 74 6f 39 38 66 30 77 32 36 4b 45 32 4d 2e 44 6d 64 69 38 51 2e 68 54 42 37 34 6f 74 6f 4b 67 74 44 59 52 79 33 52 63 4c 79 6a 7a 62 49 42 72 77 3b 20 48 74 74 70 4f 6e 6c 79 3b 20 50 61 74 68 3d 2f 0d 0a 0d 0a 7b 22 65 72 72 6f 72 22 3a 20 22 49 6e 63 6f 72 72 65 63 74 20 75 73 65 72 6e 61 6d 65 20 6f 72 20 70 61 73 73 77 6f 72 64 2e 22 7d
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: Captured at: 2018-08-29T06:49:20.913107320+08:00[Asia/Shanghai]
+Original length: 66 bytes
+[Ethernet Header (14 bytes)]
+  Destination address: 6c:3b:6b:55:a1:de
+  Source address: ac:ed:5c:6f:68:73
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 52 [bytes]
+  Identification: 36231
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x5c34
+  Source address: /10.10.40.241
+  Destination address: /10.10.20.4
+[TCP Header (32 bytes)]
+  Source port: 47428 (unknown)
+  Destination port: 80 (HTTP)
+  Sequence Number: 1783383059
+  Acknowledgment Number: 997264910
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: false
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 264
+  Checksum: 0xc858
+  Urgent Pointer: 0
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 8 (Timestamps)] [Length: 10 bytes] [TS Value: 322606] [TS Echo Reply: 88586598]
+
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: TCP packet has no payload.
+十一月 20, 2023 10:29:01 上午 com.example.idsdemo.utils.ReadPacketFile readPcapFile
+信息: EOF

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cicflow
+eureka:
+  instance:
+    hostname: cicflow
+  client:
+    serviceUrl:
+      defaultZone: "http://localhost:8083/eureka"    #声明注册中心的地址
